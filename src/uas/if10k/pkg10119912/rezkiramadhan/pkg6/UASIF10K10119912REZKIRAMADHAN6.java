@@ -11,6 +11,8 @@ package uas.if10k.pkg10119912.rezkiramadhan.pkg6;
  * Nama : Rezki Ramadhan
  * Nim : 10119912 
  * Kelas : IF10K 
+ * Tanggal : 19 Februari 2021
+ * Nomor soal : 6
  */
 public class UASIF10K10119912REZKIRAMADHAN6 {
 
